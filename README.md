@@ -51,7 +51,7 @@ This is the preliminary set of topics.
 |Week 13-1| Finish graph alignments with REGAL, and graph alignment refinements | [[REGAL (graph alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)], [[Refining Network Alignment](https://gemslab.github.io/papers/heimann-2021-RefiNA.pdf)] |  |  | 
 |Week 13-2| Multiomics factor analysis (MOFA) | [[MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)], [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)] |  | [[MOFA](https://github.com/bioFAM/MOFA)] |
 |Week 14-1| MOFA, MOFA+ | [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)]  |   |
-|Week 14-2 | Finish mutiomics factor analysis, Convex Optimization and Data Integration with ADMM ADMM | [[ADMM for ADNI](http://psb.stanford.edu/psb-online/proceedings/psb20/Brand.pdf)]  | [[Lecture22](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture22.pdf)] | | 
+|Week 14-2 | Finish mutiomics factor analysis, Convex Optimization and Data Integration with ADMM ADMM | [[ADMM for ADNI](http://psb.stanford.edu/psb-online/proceedings/psb20/Brand.pdf)]  |  | | 
 |Week 15-1| Finish up multimodal with temporal axis, Convex optimization    | [[Watch, Stephen Boyd ADMM](https://www.youtube.com/watch?v=Xg0ozgCXXB8)] |  |
 |Week 15-2 | First Round of Project Presentations, Finish up ADMM lecture with extra time.  |  |   | 
 |Week 16-1| Technical Writing in Comp Bio and Wrap-Up, Summary of the Semester wrt to graphs in biomedicine | [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)], [[Graph Representation Learning in Biomedicine](https://arxiv.org/abs/2104.04883)] |  |
