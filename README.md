@@ -1,5 +1,5 @@
 # Comp683: Computational Biology, Spring 2024
-This is the course page for the 2024 iteration of comp683: computational biology. Note that in previous years this course was numbered as Comp790-166. 
+This is the course page for the 2024 iteration of comp683: computational biology. The major focus of this course is on single-cell analysis and introduces the mathematical and computational infrastructure to understand common methods in the field. Note that in previous years this course was numbered as Comp790-166. 
 ## Details
 
 Instructor: Natalie Stanley
