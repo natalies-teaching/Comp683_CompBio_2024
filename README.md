@@ -1,5 +1,5 @@
 # Comp683: Computational Biology. (Spring 2024 iteration)
-**Update Jan 10: ** Our first class meeting is Thursday Jan 11 from 9:30-10:45 in Fred Brooks Building Room 007. 
+**Update Jan 10:** Our first class meeting is Thursday Jan 11 from 9:30-10:45 in Fred Brooks Building Room 007. 
 
 This is the course page for the 2024 iteration of comp683: computational biology. The major focus of this course is on single-cell analysis and introduces the mathematical and computational infrastructure to understand common methods in the field. This course is appropriate for a broad interdiscplinary audience if you are comfortable with coding. Note that in previous years this course was numbered as Comp790-166. 
 ## Details
