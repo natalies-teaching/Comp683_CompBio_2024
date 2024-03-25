@@ -46,6 +46,8 @@ This is the preliminary set of topics.
 |Thursday,March 7| Finish Trajectory Inference - SLICER, Single-cell imaging modalities and spatial phenptyping | [[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)], [[SLICER-developed at UNC](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3)] | [[Lecture 16](https://github.com/natalies-teaching/Comp683_CompBio_2024/blob/main/Lectures/Lecture16.pdf)]  |  |
 |Tuesday, March 19| Project proposals day 1|  |  |  | 
 |Thursday, March 21| Project proposals day 2|  |  |  | 
+|Tuesday, March 26| Project proposals day 3 | | | |
+|Thursday, March 28| Wellness Day - no class | | | |
 |Week 8-2| Spatial Phenotyping with LEAPH, Pixel-level clustering (PIXIE) in IMC images, Trajectory Inference Lab Activity  | [[Pixie](https://www.biorxiv.org/content/10.1101/2022.08.16.504171v1.abstract)] | [[Notebook for trajectory activity](https://colab.research.google.com/drive/14LRc76ltDEnHi4v2jUWCS9Tad-RbXOLz?usp=sharing#scrollTo=zU82kaKhfKEN)] (Thanks to Jolene Ranek)  | [[Pixie](https://github.com/angelolab/ark-analysis)]  | 
 |Week 9-1| Graph Neural Networks (GNN), Correct and Smooth Approach, GNN analysis of IMC shows spatial context doesn't always help | [[Correct and Smooth](https://arxiv.org/abs/2010.13993)], [[GNN for Spatial Context](https://www.biorxiv.org/content/10.1101/2022.12.08.519537v1)] |  | [Correct and Smooth](https://github.com/CUAI/CorrectAndSmooth)] |
 |Week 10-2|Project Proposals Day 1|  |  |  | 
