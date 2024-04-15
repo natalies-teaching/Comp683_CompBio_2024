@@ -57,7 +57,7 @@ This is the preliminary set of topics.
 |Tuesday April 23 | Convex Optimization and Data Integration with ADMM, Technical Writing in Comp Bio and Wrap-Up| [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)], [[Graph Representation Learning in Biomedicine](https://arxiv.org/abs/2104.04883)] |  |
 |Thursday, April 26| First Day of Project Presentations
 |Tuesday, April 30| Second Day of Project Presentations
-|May 1| Final Project Writeups Due
+|May 3| Final Project Writeups Due
 
 # Reading Questions
 
